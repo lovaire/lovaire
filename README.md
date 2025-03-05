@@ -6,5 +6,5 @@ I'm a **Information System** student at **Universitas Indonesia**
 
 ###  Projects
 Currently Developing:
-- **Sistem Informasi Penerimaan Santri Baru**
+- **Sistem Informasi Penerimaan Santri Baru Pondok Modern Al-Ghozali**
 
