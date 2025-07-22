@@ -1,10 +1,100 @@
-<h1 align="center">Hi! 👋, I'm Rifqii</h1>
-<h3 align="center">Welcome to my Page</h3>
+<!-- GitHub Profile README -->
 
-### About Me
-I'm a **Information System** student at **Universitas Indonesia**
+<h1 align="center">Hi there 👋, I'm Rifqi Rahmat</h1>
+<h3 align="center">💻 A passionate developer | 🧠 Lifelong learner | 🌐 Open Source Enthusiast</h3>
 
-###  Projects
-Currently Developing:
-- **Sistem Informasi Penerimaan Santri Baru Pondok Modern Al-Ghozali**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="USERNAME" />
+</p>
+
+---
+
+### 🔥 About Me
+
+- 🔭 I’m currently working on **PM Al-Ghozali**
+- 🌱 I’m currently learning **Spring-Boot**
+- 📫 Reach me at: *rifqi.rahmatuloh@ui.ac.id**
+- ⚡ Fun fact: *Wota*
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/USERNAME/USERNAME/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="30" width="30" />
+  </a>
+  <a href="https://instagram.com/YOUR-INSTAGRAM" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="30" />
+  </a>
+  <a href="mailto:your@email.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="30" width="30" />
+  </a>
+</p>
+
+---
+
+### 💡 Quote of the Day
+
+<p align="center">
+  <em>"First, solve the problem. Then, write the code." – John Johnson</em>
+</p>
+
+---
+
+> ⚡ *Let's build the future together. Happy coding!*
 
