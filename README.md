@@ -61,30 +61,29 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/USERNAME/USERNAME/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
   <a href="https://twitter.com/YOUR-TWITTER" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/>
   </a>
   <a href="https://instagram.com/YOUR-INSTAGRAM" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="30" />
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram" width="40" height="40"/>
   </a>
   <a href="mailto:your@email.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="30" width="30" />
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="gmail" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/YOUR-INSTAGRAM)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ---
 
