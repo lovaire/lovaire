@@ -63,11 +63,11 @@
 
 ### 📦 My Featured Projects
 
-<a href="https://github.com/lovaire/NamaRepo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lovaire&repo=NamaRepo&theme=tokyonight" />
+<a href="https://github.com/lovaire/addakwa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lovaire&repo=addakwa&theme=tokyonight" />
 </a>
-<a href="https://github.com/lovaire/NamaRepo2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lovaire&repo=NamaRepo2&theme=tokyonight" />
+<a href="https://github.com/lovaire/KELULUSANPSB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lovaire&repo=KELULUSANPSB&theme=tokyonight" />
 </a>
 
 ---
