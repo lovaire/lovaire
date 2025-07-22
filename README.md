@@ -61,32 +61,61 @@
 
 ---
 
+### 📦 My Featured Projects
+
+<a href="https://github.com/lovaire/NamaRepo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lovaire&repo=NamaRepo&theme=tokyonight" />
+</a>
+<a href="https://github.com/lovaire/NamaRepo2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lovaire&repo=NamaRepo2&theme=tokyonight" />
+</a>
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+  <a href="https://linkedin.com/in/rifqirahmat" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="blank">
+  <a href="https://twitter.com/AkadeMichie" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/>
   </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM" target="blank">
+  <a href="https://instagram.com/rifqirahmaat" target="blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram" width="40" height="40"/>
   </a>
-  <a href="mailto:your@email.com" target="blank">
+  <a href="mailto:rifqi.rahmatuloh@ui.ac.id" target="blank">
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="gmail" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-### 💡 Quote of the Day
+### 📅 GitHub Activity Calendar
 
 <p align="center">
-  <em>"First, solve the problem. Then, write the code." – John Johnson</em>
+  <img src="https://github.com/lovaire/lovaire/raw/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
 
-> ⚡ *Let's build the future together. Happy coding!*
+### ✨ Daily Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</p>
+
+---
+
+### 🌍 Visitor from Around the World
+
+<p align="center">
+  <img src="https://cr-geo-badges.herokuapp.com/cr?username=lovaire&badge-style=flat" alt="Visitors Map" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lovaire&theme=tokyo-night)
 
