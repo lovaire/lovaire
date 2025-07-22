@@ -91,14 +91,6 @@
 
 ---
 
-### 📅 GitHub Activity Calendar
-
-<p align="center">
-  <img src="https://github.com/lovaire/lovaire/raw/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
----
-
 ### ✨ Daily Developer Quote
 
 <p align="center">
