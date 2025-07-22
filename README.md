@@ -11,7 +11,7 @@
 
 ### 🔥 About Me
 
-- 🔭 I’m currently working on **PM Al-Ghozali**
+- 🔭 I’m currently working on **SCeLE-NG**
 - 🌱 I’m currently learning **Spring-Boot**
 - 📫 Reach me at: *rifqi.rahmatuloh@ui.ac.id**
 - ⚡ Fun fact: *Wota*
