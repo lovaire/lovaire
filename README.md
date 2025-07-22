@@ -107,14 +107,6 @@
 
 ---
 
-### 🌍 Visitor from Around the World
-
-<p align="center">
-  <img src="https://cr-geo-badges.herokuapp.com/cr?username=lovaire&badge-style=flat" alt="Visitors Map" />
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lovaire&theme=tokyo-night)
