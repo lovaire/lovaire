@@ -4,7 +4,7 @@
 <h3 align="center">💻 A passionate developer | 🧠 Lifelong learner | 🌐 Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=lovaire&label=Profile%20views&color=0e75b6&style=flat" alt="lovaire" />
 </p>
 
 ---
@@ -77,13 +77,6 @@
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="gmail" width="40" height="40"/>
   </a>
 </p>
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/YOUR-INSTAGRAM)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ---
 
