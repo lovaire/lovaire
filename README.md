@@ -132,11 +132,3 @@ A passionate and innovative software engineer with expertise in full-stack devel
 ## Development Philosophy
 
 > "Clean code is not written by following rules. It is written by experience and constant refinement of one's craft."
-
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');
-  
-  * {
-    font-family: 'Plus Jakarta Sans', sans-serif;
-  }
-</style>
