@@ -16,8 +16,8 @@ A passionate and innovative software engineer with expertise in full-stack devel
 
 ## Current Focus
 
-- **Primary Project**: Leading development of SCeLE-NG - Next Generation Learning Management System
-- **Skill Development**: Mastering Spring Boot Microservices & Cloud Native Architecture
+- **Primary Project**: Leading development of PM Al-Ghozali's EMS
+- **Skill Development**: Mastering Web Developing
 - **Learning Path**: Advanced System Design & Distributed Computing
 - **Career Goal**: Building impactful, scalable software solutions
 
@@ -31,7 +31,6 @@ A passionate and innovative software engineer with expertise in full-stack devel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
 </p>
 
