@@ -32,6 +32,7 @@ A passionate and innovative software engineer with expertise in full-stack devel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="SvelteKit" width="40" height="40"/>
 </p>
 
 ### Backend Development
@@ -43,6 +44,7 @@ A passionate and innovative software engineer with expertise in full-stack devel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat&logo=web&logoColor=white" alt="REST API" height="40"/>
+  <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat&logo=strapi&logoColor=white" alt="Strapi JS" height="40"/>
 </p>
 
 ### Databases & DevOps
