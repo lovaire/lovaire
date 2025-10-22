@@ -1,4 +1,4 @@
-# Hi, I'm Rifqi. I build things on the web - from the user interface all the way down to the database. Currently obsessed with creating resilient systems that can handle millions of requests.
+# Hi, I'm Rifqi. Specializing in Scalable Web Systems & Distributed Architecture.
 
 <div align="center">
 
