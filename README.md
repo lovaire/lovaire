@@ -91,11 +91,11 @@ A passionate and innovative software engineer with expertise in full-stack devel
 
 <div align="center">
 
-### AdDaKwa - Prayer Time Application
+### AdDaKwa
 [![AdDaKwa](https://github-readme-stats.vercel.app/api/pin/?username=lovaire&repo=addakwa&theme=default)](https://github.com/lovaire/addakwa)
 
-### PSB Graduation System
-[![KELULUSANPSB](https://github-readme-stats.vercel.app/api/pin/?username=lovaire&repo=KELULUSANPSB&theme=default)](https://github.com/lovaire/KELULUSANPSB)
+### Al-Ghozali's EMS
+[![Al-Ghozali's EMS](https://github-readme-stats.vercel.app/api/pin/?username=PMALGHOZALI&repo=DashboardALG&theme=default)](https://github.com/PMALGHOZALI/DashboardALG)
 
 </div>
 
