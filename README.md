@@ -1,4 +1,4 @@
-# Hi, I'm Rifqi. Specializing in Scalable Web Systems & Distributed Architecture.
+# Hello, There! I'm Rifqi. 
 
 <div align="center">
 
@@ -93,6 +93,11 @@ A passionate and innovative software engineer with expertise in full-stack devel
 
 ### AdDaKwa
 [![AdDaKwa](https://github-readme-stats.vercel.app/api/pin/?username=lovaire&repo=addakwa&theme=default)](https://github.com/lovaire/addakwa)
+
+</div>
+
+### Linket
+[![Linket](https://github-readme-stats.vercel.app/api/pin/?username=lovaire&repo=linket&theme=default)](https://github.com/lovaire/linket)
 
 </div>
 
