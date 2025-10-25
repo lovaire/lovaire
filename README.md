@@ -96,6 +96,8 @@ A passionate and innovative software engineer with expertise in full-stack devel
 
 </div>
 
+<div align="center">
+
 ### Linket
 [![Linket](https://github-readme-stats.vercel.app/api/pin/?username=lovaire&repo=linket&theme=default)](https://github.com/lovaire/linket)
 
