@@ -17,7 +17,7 @@ A passionate and innovative software engineer with expertise in full-stack devel
 ## Current Focus
 
 - **Primary Project**: Leading development of PM Al-Ghozali's EMS
-- **Skill Development**: Mastering Web Developing
+- **Skill Development**: Mastering Web Development
 - **Learning Path**: Advanced System Design & Distributed Computing
 - **Career Goal**: Building impactful, scalable software solutions
 
